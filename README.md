@@ -1,4 +1,4 @@
-# Inventory API
+# Flash Electronics API
 
 This repository contains the files required to run a RESTful API in a linux-based server for an electronic devices storage. The API retreives file information that is asked by the user via a front-end component by communicating with the database to retreive the information from the 5,000,000 records in the database using optimized SQL queries
 
